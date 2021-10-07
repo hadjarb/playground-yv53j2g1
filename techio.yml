@@ -3,7 +3,7 @@ plan:
 - title: Welcome
   statement: markdowns/welcome.md
 - title : QUIZ
-  statement: markdows/page1.md
+  statement: markdowns/page1.md
 projects:
   nodejs:
     root: /nodejs-project
