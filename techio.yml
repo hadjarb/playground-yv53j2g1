@@ -4,6 +4,9 @@ plan:
   statement: markdowns/welcome.md
 - title : QUIZ
   statement: markdowns/page1.md
+- title : Visionneuse
+  statement: markdowns/page2.md
+
 projects:
   nodejs:
     root: /nodejs-project
