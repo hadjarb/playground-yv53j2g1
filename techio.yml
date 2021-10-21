@@ -6,7 +6,7 @@ plan:
   statement: markdowns/page1.md
 - title : Visionneuse
   statement: markdowns/page2.md
-  - title : Test
+- title : Test
   statement: markdowns/test.md
 
 projects:
